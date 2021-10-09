@@ -61,11 +61,11 @@ resize(GLint _w, GLint _h) {
 	/* All the drawing will only be displayed in the viewport. Origin is the left bottom of the
 	viewport, g_width * g_height would be the size of viewport*/
 	glViewport(0, 0, g_width, g_height); 
-	/*
+	
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();  //reset the current matrix (transformation like rotation/scaling)
-	*/
-	/*git test 1*/
+	
+
 }
 
 ////////////////////////////////////////////////////////////////////////////////
