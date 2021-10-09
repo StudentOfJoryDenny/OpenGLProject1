@@ -65,6 +65,7 @@ resize(GLint _w, GLint _h) {
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();  //reset the current matrix (transformation like rotation/scaling)
 	*/
+	/*git test 1*/
 }
 
 ////////////////////////////////////////////////////////////////////////////////
